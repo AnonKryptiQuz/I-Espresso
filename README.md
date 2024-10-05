@@ -26,6 +26,8 @@
 ## **Usage**
 
 1. **Run the tool:**
+   
+   You can either run it from the command prompt:
 
    ```bash
    I-Espresso.bat
