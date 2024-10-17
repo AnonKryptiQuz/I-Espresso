@@ -41,6 +41,10 @@
 
 5. **You can now run the generated PE file via the command prompt by typing its name (with the specified extension). The batch script will execute automatically.**
 
+## **Disclaimer**
+
+- **Educational Purposes Only**: I-Espresso is intended for educational and research use. The tool should not be used for illegal or malicious activities. It is the user’s responsibility to ensure compliance with local laws and regulations.
+
 ## **Author**
 
 **Created by:** [AnonKryptiQuz](https://AnonKryptiQuz.github.io/)
